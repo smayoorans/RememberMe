@@ -4,7 +4,7 @@
     <groupId>com.guru.org</groupId>
     <artifactId>remember-me-example</artifactId>
     <packaging>war</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>remember-me-example Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
